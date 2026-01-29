@@ -1,6 +1,5 @@
 # Token-Guard
 
-Official resources of **"TOKEN-GUARD: TOWARDS TOKEN-LEVEL HALLUCINATION CONTROL VIA SELF-CHECKING DECODING"**. [**ICLR 2026**].
 Official resources of **"TOKEN-GUARD: TOWARDS TOKEN-LEVEL HALLUCINATION CONTROL VIA SELF-CHECKING DECODING"**. Yifan Zhu, Huiqiang Rong, Haoran Luo. **ICLR 2026** \[[paper](Coming Soon)\].
 
 
