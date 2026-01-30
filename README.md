@@ -52,13 +52,12 @@ If you find this work is helpful for your research, please cite:
 
 ```bibtex
 @inproceedings{tokenguard2026,
-      title={TOKEN-GUARD: TOWARDS TOKEN-LEVEL HALLUCINATION CONTROL VIA SELF-CHECKING DECODING}, 
-      author={Yifan Zhu, Huiqiang Rong, Haoran Luo},
-      booktitle={International Conference on Learning Representations (ICLR)},
-      year={2026},
-      url={https://github.com/rhq945/Token-Guard}
+  title     = {{TOKEN-GUARD}: Towards Token-Level Hallucination Control via Self-Checking Decoding},
+  author    = {Zhu, Yifan and Rong, Huiqiang and Luo, Haoran},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2601.21969}
 }
-
 ```
 
 For further questions, please contact: rhq@bupt.edu.cn.
