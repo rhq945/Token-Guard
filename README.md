@@ -61,6 +61,8 @@ If you find this work is helpful for your research, please cite:
 
 ```
 
-For further questions, please contact: [rhq@bupt.edu.cn].
+For further questions, please contact: rhq@bupt.edu.cn.
 
----
+## Acknowledgement
+
+This repo benefits from [Graph-R1](https://github.com/LHRLAB/Graph-R1), [Phi-Decoding](https://github.com/xufangzhi/phi-Decoding), [Lynx](https://github.com/patronus-ai/Lynx-hallucination-detection). Thanks for their wonderful works.
