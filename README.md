@@ -110,7 +110,7 @@ CUDA_VISIBLE_DEVICES=0 conda run -n tokenguard python run_guard.py \
 }
 ```
 
-For further questions, please contact: rhq@bupt.edu.cn.
+For further questions, please contact: rong@bupt.edu.cn.
 
 ## Acknowledgement
 
