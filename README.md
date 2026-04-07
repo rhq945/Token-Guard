@@ -91,12 +91,12 @@ CUDA_VISIBLE_DEVICES=0 conda run -n tokenguard python run_guard.py \
 
 | Argument | Default | Description |
 |---|---|---|
-| `--model_path` | — | Path to local HuggingFace model weights |
-| `--datasets` | — | Dataset type: `halueval`, `history`, `nfl`, `covidQA`, `financebench`, `pubmedqa`, `ragtruth` |
-| `--num_foresight` | `8` | Reasoning steps (depth of beam search) |
-| `--step_beam_size` | `4` | Number of parallel beams |
-| `--num_rollout` | `10` | Rollouts per beam per step |
-| `--tau_global` | `0.7` | Global convergence threshold override (paper: 0.7; recommended: 0.65) |
+| `model_path` | — | Path to local HuggingFace model weights |
+| `datasets` | — | Dataset type: `halueval`, `history`, `nfl`, `covidQA`, `financebench`, `pubmedqa`, `ragtruth` |
+| `num_foresight` | `8` | Reasoning steps (depth of beam search) |
+| `step_beam_size` | `4` | Number of parallel beams |
+| `num_rollout` | `10` | Rollouts per beam per step |
+| `tau_global` | `0.7` | Global convergence threshold override (paper: 0.7; recommended: 0.65) |
 
 ## BibTeX
 
